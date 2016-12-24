@@ -18,3 +18,5 @@ for i in getHtml():
     print i[1]
     getContent(i[0])
     mysql = Mysqldb.connect()
+
+更新测试
